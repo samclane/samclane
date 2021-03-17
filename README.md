@@ -1,10 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
   - Resuming [LIFX-Control-Panel](https://github.com/samclane/LIFX-Control-Panel) development
-  - [Tournament Kings](https://www.tournamentkings.com/) Discord Bot development
 - 🌱 I’m currently learning ...
-  - [Python Roguelike Development](http://rogueliketutorials.com/tutorials/tcod/v2/)
-  - [redis for Python](https://realpython.com/python-redis/)
+  - [Numba/CUDA](https://github.com/ContinuumIO/gtc2017-numba)
 <!--
 **samclane/samclane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
