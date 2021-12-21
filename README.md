@@ -3,14 +3,11 @@
   - Resuming [LIFX-Control-Panel](https://github.com/samclane/LIFX-Control-Panel) development
   - Learning about Surreal Numbers on my [Blog](https://samclane.dev/2021-5-26-surreal-numbers-in-python/) with [Datalore Notebooks](https://datalore.jetbrains.com/view/notebook/y0irTQxpwjtJraOPVB5Kuf)
 - 🌱 I’m currently learning ...
-  - Unity
-    - [Top Down Shooter](https://samclane.itch.io/topdownprototype) Game
-    - [Procedural Landmass Generation](https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3) by Sebastian Lague
-  - Kotlin
-  - Linux Networking Certification (via [The Linux Foundation](https://www.linuxfoundation.org/))
-
-- 👯 I’m looking to collaborate on `Anything`
-- 🤔 I’m looking for help with [`Finding a Job!`](https://www.linkedin.com/feed/)
+  - Kubernetes (via Pluralsight)
+  - AWS Cloud Infrastructure
+  - Jenkins CI/CD
+  - Cloud Metrics Aggregation via Prometheus + Grafana
+- 👯 I’m looking to collaborate on `LIFX-Control-Panel Development`
 - 📫 How to reach me: [`contact@samclane.dev`](mailto:contact@samclane.dev)
 - 😄 Pronouns: `He/Him`
 
