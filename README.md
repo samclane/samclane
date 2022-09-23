@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
-  - Resuming [LIFX-Control-Panel](https://github.com/samclane/LIFX-Control-Panel) development
-  - Learning about Surreal Numbers on my [Blog](https://samclane.dev/2021-5-26-surreal-numbers-in-python/) with [Datalore Notebooks](https://datalore.jetbrains.com/view/notebook/y0irTQxpwjtJraOPVB5Kuf)
+  - Working on a game, [Infinishoot](https://linktr.ee/infinishoot)!
+  - Building a smart [Gas Sensor](https://github.com/samclane/GasSensor)
 - 🌱 I’m currently learning ...
   - Messing around with [raylib](https://www.raylib.com/)
   - DSL Generation with [lark parser](https://github.com/lark-parser/lark) 
