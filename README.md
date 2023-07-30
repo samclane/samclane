@@ -9,4 +9,7 @@
 - 📫 How to reach me: [`contact@samclane.dev`](mailto:contact@samclane.dev)
 - 😄 Pronouns: `He/Him`
 
+- My other sites
+  - [Stock Simulator Game](https://stocks.samclane.dev/) 
+
 [![Sawyer's github stats](https://github-readme-stats.vercel.app/api?username=samclane)](https://github.com/anuraghazra/github-readme-stats)
