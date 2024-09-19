@@ -1,6 +1,7 @@
 ### Hi there 👋
 - I'm currently looking for new work opportunities! Please feel free to drop me an email!
 - 🔭 I’m currently working on ...
+  - [Mantle](https://github.com/samclane/mantle), a Rust port of LIFX-Control-Panel
   - Learning Rust via [Bevy](https://github.com/bevyengine/bevy) 
   - Working on a game, [Infinishoot](https://linktr.ee/infinishoot)!
   - Building a smart [Gas Sensor](https://github.com/samclane/GasSensor)
